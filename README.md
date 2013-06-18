@@ -11,12 +11,12 @@ Version 1.x works for mongodb >= 2.0, but since 2.4 you need to have admin acces
 <dependency>
     <groupId>com.synhaptein</groupId>
     	<artifactId>migmongo_2.9.2</artifactId>
-    	<version>1.0.2</version>
+    	<version>1.1.1</version>
 </dependency>
 ```
 
 ```scala
-libraryDependencies += "com.synhaptein" % "migmongo_2.9.2" % "1.0.2"
+libraryDependencies += "com.synhaptein" % "migmongo_2.9.2" % "1.1.1"
 ```
 
 ### Create your migrations
